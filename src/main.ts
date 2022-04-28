@@ -1,6 +1,6 @@
 import './style.css'
 import './clean-code/05-dry.ts';
-import './clean-code/06-classes.ts';
+import './clean-code/06-classes-b.ts';
 const app = document.querySelector<HTMLDivElement>('#app')!
 
 app.innerHTML = `
